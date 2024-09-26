@@ -1,0 +1,62 @@
+{
+    "name": "0x4rk0's Tools",
+    "type": "folder",
+    "children": [
+        {
+            "name": "Country Specific Tools",
+            "type": "folder",
+            "children": [
+                {
+                    "name": "United States",
+                    "type": "folder",
+                    "children": []
+                },
+                {
+                    "name": "Germany",
+                    "type": "folder",
+                    "children": []
+                },
+                {
+                    "name": "United Kingdom",
+                    "type": "folder",
+                    "children": []
+                },
+                {
+                    "name": "France",
+                    "type": "folder",
+                    "children": []
+                },
+                {
+                    "name": "Japan",
+                    "type": "folder",
+                    "children": []
+                },
+                {
+                    "name": "Australia",
+                    "type": "folder",
+                    "children": []
+                },
+                {
+                    "name": "Brazil",
+                    "type": "folder",
+                    "children": []
+                },
+                {
+                    "name": "Russia",
+                    "type": "folder",
+                    "children": []
+                },
+                {
+                    "name": "India",
+                    "type": "folder",
+                    "children": []
+                },
+                {
+                    "name": "Canada",
+                    "type": "folder",
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
